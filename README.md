@@ -17,12 +17,13 @@ course-code/
 
 ## 📖 Courses
 
-### CSE220 - [Course Name]
-- **Description:** Brief description of the course
-- **Language(s):** Programming languages used
-- **Topics:** Key topics covered
+### CSE220 - Data Structures and Algorithms
+- **Description:** Fundamental course covering data structures, algorithms, and complexity analysis
+- **Language(s):** Java, Python, C++
+- **Topics:** Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting, Searching
+- **Status:** ✅ Active
 
-*Add more courses as needed*
+*More courses will be added as I progress through my degree*
 
 ## 🚀 How to Use This Repository
 
@@ -84,5 +85,5 @@ This repository is for educational purposes. Please respect academic integrity g
 
 ---
 
-*Last updated: $(Get-Date -Format "MMMM yyyy")*
-*Maintained by: iamm3taphorical*
+*Last updated: July 2025*
+*Maintained by: Mahir Dyan (@iamm3taphorical)*
