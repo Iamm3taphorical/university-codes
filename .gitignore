@@ -1,0 +1,73 @@
+# Compiled files
+*.class
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Java
+*.jar
+*.war
+*.ear
+target/
+
+# C/C++
+*.out
+*.app
+*.dSYM/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# Package files
+node_modules/
+*.zip
+*.rar
+*.tar.gz
+
+# IDE specific files
+*.sublime-*
+.vscode/settings.json
+
+# Personal notes (you can remove this if you want to include personal notes)
+*personal*
+*private*
+
+# Large media files (optional - remove if you need to upload these)
+*.mp4
+*.avi
+*.mov
+*.mkv
